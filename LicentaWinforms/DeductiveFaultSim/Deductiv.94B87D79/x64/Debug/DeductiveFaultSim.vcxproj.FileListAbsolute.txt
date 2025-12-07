@@ -1,0 +1,3 @@
+D:\LicentaWinforms\DeductiveFaultSim\Deductiv.94B87D79\x64\Debug\DeductiveFaultSim.vcxproj.AssemblyReference.cache
+D:\LicentaWinforms\DeductiveFaultSim\Deductiv.94B87D79\x64\Debug\DeductiveFaultSim.MyForm.resources
+D:\LicentaWinforms\DeductiveFaultSim\Deductiv.94B87D79\x64\Debug\DeductiveFaultSim.vcxproj.GenerateResource.cache
